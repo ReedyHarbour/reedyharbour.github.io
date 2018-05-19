@@ -1,0 +1,32 @@
+body{
+	font-family: 'Roboto Slab', serif;
+	background-image:url(https://cdn.pixabay.com/photo/2017/08/31/20/14/blue-2702172_1280.jpg)
+	-webkitbackground-size: cover; 
+	-moz-background-size: cover; 
+	-obackground-size: cover; 
+	background-size: cover; 
+}
+
+html{
+	background-image: url(https://cdn.pixabay.com/photo/2017/08/31/20/14/blue-2702172_1280.jpg)
+}
+
+.intro-box{
+	width: 400px;
+	height: 400px;
+	background: rgba(0, 0, 0, 0.4);
+	padding: 40px;
+	color: white;
+	margin: auto;
+	margin-top: 5%;
+	text-align: center;
+}
+
+.prof-pic{
+	width: 200px;
+	height: auto;
+	border-radius: 30%;
+}
+.icon a{
+	color: white;
+}
