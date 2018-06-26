@@ -6,6 +6,13 @@
     templated.co @templatedco
     Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
+
+.lightbox img {
+    width: 100%;
+    border-radius: 0;
+    position: relative;
+}
+
 .skills {
     text-align: right; /* Right-align text */
     padding-right: 20px; /* Add some right padding */
